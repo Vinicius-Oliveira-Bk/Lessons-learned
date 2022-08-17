@@ -10,22 +10,22 @@
 } */
 
 #cabecalho {
-  position:static;
+  position:fixed;
   top: 0px;
-  border-right: 0px;
+  padding: 15px;
   background-color: darkgreen;
   color: aliceblue;
 }
 
 #titulo {
-  margin-top: 0px;
+  margin-top: 10px;
 }
 
 #minha_foto {
-  margin-top: 0px;
+  margin-top: 100px;
   width: 150px;
 }
 
 #licoes_aprendidas {
-
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
