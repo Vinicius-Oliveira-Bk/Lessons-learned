@@ -18,7 +18,7 @@
 }
 
 #titulo {
-  margin-top: 10px;
+  margin: 10px;
 }
 
 #minha_foto {
@@ -27,5 +27,9 @@
 }
 
 #licoes_aprendidas {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#licoes_a_aprender {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
