@@ -36,7 +36,10 @@
 
 #rodape {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  margin: 10px;
   padding: 10px;
   background-color: aquamarine;
+}
+
+.formatacao {
+  font-family: Arial, Helvetica, sans-serif;
 }
