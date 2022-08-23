@@ -2,24 +2,32 @@
   background-color: rgb(253, 251, 251);
 }
 
+div {
+  display: inline-block;
+  width: 700px;
+}
+
 #cabecalho {
   position:fixed;
+  width: 100%;
   top: 0px;
-  padding: 10px;
+  padding: 5px;
   background-color: darkgreen;
   color: aliceblue;
 
 }
 
 #titulo {
+  text-align: center;
   font-size:x-large;
-  margin: 10px;
+  margin: 5px;
   line-height: 2;
 }
 
 #minha_foto {
   margin-top: 100px;
   width: 150px;
+  border: 3px solid green;
 }
 
 #licoes_aprendidas {
@@ -38,4 +46,12 @@
 
 .formatacao {
   font-family: Arial, Helvetica, sans-serif;
+  display: inline-block;
 }
+
+#div_titulo {
+  width: auto;
+  border: 5px solid green;
+}
+
+
