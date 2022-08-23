@@ -2,22 +2,19 @@
   background-color: rgb(253, 251, 251);
 }
 
-/*#navegacao {
-  color: aliceblue;
-  position: top;
-} */
-
 #cabecalho {
   position:fixed;
   top: 0px;
-  padding: 15px;
+  padding: 10px;
   background-color: darkgreen;
   color: aliceblue;
 
 }
 
 #titulo {
+  font-size:x-large;
   margin: 10px;
+  line-height: 2;
 }
 
 #minha_foto {
